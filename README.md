@@ -1,5 +1,5 @@
-### Oieeee! Eu sou a Pollyana Rocha
-
+### Oieeee! Eu sou a Pollyana
+- :) Python<3
 - 🌱 Estudando .NET
 - 😄 Pronouns: ela/dela
 <div align="center">
