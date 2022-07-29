@@ -1,6 +1,6 @@
 ### Oieeee! Eu sou a Pollyana
 - :) Python<3
-- 🌱 Estudando .NET
+- 🌱 mantendo a disciplina e a constância para alcançar o que eu almejo.
 - 😄 Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/pollyanarocha416">
