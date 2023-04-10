@@ -1,4 +1,4 @@
-### Oieeee! Eu sou a Pollyana
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Polly+aqui+sou+Dev+Python)](https://git.io/typing-svg)
 - Estou me capacitando para me tornar uma Analista de Sistema JR com foco em Python.
 - 🌱 mantendo a disciplina e a constância para alcançar o que eu almejo.
 <div align="center">
