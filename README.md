@@ -1,6 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B👋👋👋👋👋👋)](https://git.io/typing-svg)
-- 💪
-- 🌱 disciplina e constância!
+- 🌱 disciplina e constância 💪
 <div align="center">
   <a href="https://github.com/pollyanarocha416">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollyanarocha416&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
