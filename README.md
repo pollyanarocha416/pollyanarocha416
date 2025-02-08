@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B👋👋👋👋👋👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 - 🌱 disciplina e constância 💪
 <div align="center">
   <a href="https://github.com/pollyanarocha416">
@@ -18,18 +18,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pollyana-rocha/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpollyanarocha@gmail.com "devpollyanarocha@gmail.com")
-
----
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
-
-
-
