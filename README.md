@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=Bem-vindo(a)+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=Bem-vindo(a)!)](https://git.io/typing-svg)
 - 🌱 disciplina e constância 💪
 <div align="center">
   <a href="https://github.com/pollyanarocha416">
