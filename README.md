@@ -5,7 +5,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollyanarocha416&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyanarocha416&layout=compact&langs_count=7&theme=dracula"/>
 <div style="display: inline_block"><br>
-   
+
+<div align="center">
+  <br>
+</div>
+<h2></h2>
+  <br>
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="50%">
+
+<div align="left">
+  <p>
+  <h3><strong> 💻 My Skills </strong> </h3>
+  </p>
+ </div> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,docker,git,bitbucket,vscode" />
