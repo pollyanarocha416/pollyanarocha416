@@ -1,18 +1,35 @@
+<br>
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="50%">
+<br>
+<br>
+<br>
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=Bem-vindo(a)!)](https://git.io/typing-svg)
-- 🌱 disciplina e constância🎯 
+
+
+
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Software Engineer.
+- 💼 Trabalhando como analista de sistemas jr.
+- 🌱 Aprendendo mais sobre FastApi, pydantic e docker.
 <div align="center">
   <a href="https://github.com/pollyanarocha416">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollyanarocha416&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyanarocha416&layout=compact&langs_count=7&theme=dracula"/>
 <div style="display: inline_block"><br>
 
+
 <div align="center">
   <br>
 </div>
-<h2></h2>
-  <br>
-<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="50%">
 
+<h2></h2>
 <div align="left">
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
@@ -24,6 +41,7 @@
   </a>
 </p>
 </div>
+
 ---
 
 ### Conecte-se comigo
