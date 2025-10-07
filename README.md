@@ -2,10 +2,6 @@
 <img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="50%">
 <br>
 <br>
-<br>
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=Bem-vindo(a)!)](https://git.io/typing-svg)
 
