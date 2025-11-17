@@ -27,7 +27,7 @@
 <h2></h2>
 <div align="left">
   <p>
-  <h3><strong> 💻 My Skills </strong> </h3>
+  <h3><strong> 💻 Skills </strong> </h3>
   </p>
  </div> 
 <p align="center">
