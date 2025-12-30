@@ -3,16 +3,15 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=Olá!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=Hey!!!!)](https://git.io/typing-svg)
 
 
 
 
-## Sobre mim
+## about me
 
-- 🎓 Engenharia de Software.
-- 💼 analista de sistemas jr.
-
+- 🎓 Software Engineering.
+- 🛠️ Backend development.
 
 
 <div align="center">
@@ -34,7 +33,7 @@
 
 ---
 
-### Conecte-se comigo
+### Contact me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pollyana-rocha/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpollyanarocha@gmail.com "devpollyanarocha@gmail.com")
+<a href="devpollyanarocha@gmail.com"><img src="https://img.shields.io/badge/-devpollyanarocha@gmail.com-ff3860?style=for-the-badge&logo=gmail&logoColor=ff3860&labelColor=282828" alt="Email"></a>
