@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=Bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=Olá!!!!)](https://git.io/typing-svg)
 
 
 
@@ -13,11 +13,6 @@
 - 🎓 Engenharia de Software.
 - 💼 analista de sistemas jr.
 
-<div align="center">
-  <a href="https://github.com/pollyanarocha416">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollyanarocha416&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyanarocha416&layout=compact&langs_count=7&theme=dracula"/>
-<div style="display: inline_block"><br>
 
 
 <div align="center">
