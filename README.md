@@ -12,7 +12,7 @@
 
 - 🎓 Software Engineering.
 - 🛠️ Backend development.
-
+- 🎨 Frontend development (Angular).
 
 <div align="center">
   <br>
