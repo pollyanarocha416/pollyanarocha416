@@ -21,7 +21,7 @@
  </div> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,docker,git,bitbucket,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,docker,git,bitbucket,vscode,aws" />
   </a>
 </p>
 </div>
