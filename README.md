@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=HEY!!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F741EE&width=435&lines=welcome!:])](https://git.io/typing-svg)
 
 
 
@@ -21,7 +21,7 @@
  </div> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,docker,git,bitbucket,vscode,aws" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,docker,rabbitmq,kafka,aws" />
   </a>
 </p>
 </div>
